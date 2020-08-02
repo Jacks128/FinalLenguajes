@@ -1,0 +1,10 @@
+C:\Users\Benitez\source\repos\FinalJacks\FinalJacks\obj\Debug\FinalJacks.csprojAssemblyReference.cache
+C:\Users\Benitez\source\repos\FinalJacks\FinalJacks\obj\Debug\FinalJacks.Form1.resources
+C:\Users\Benitez\source\repos\FinalJacks\FinalJacks\obj\Debug\FinalJacks.Properties.Resources.resources
+C:\Users\Benitez\source\repos\FinalJacks\FinalJacks\obj\Debug\FinalJacks.csproj.GenerateResource.cache
+C:\Users\Benitez\source\repos\FinalJacks\FinalJacks\obj\Debug\FinalJacks.csproj.CoreCompileInputs.cache
+C:\Users\Benitez\source\repos\FinalJacks\FinalJacks\bin\Debug\FinalJacks.exe.config
+C:\Users\Benitez\source\repos\FinalJacks\FinalJacks\bin\Debug\FinalJacks.exe
+C:\Users\Benitez\source\repos\FinalJacks\FinalJacks\bin\Debug\FinalJacks.pdb
+C:\Users\Benitez\source\repos\FinalJacks\FinalJacks\obj\Debug\FinalJacks.exe
+C:\Users\Benitez\source\repos\FinalJacks\FinalJacks\obj\Debug\FinalJacks.pdb
